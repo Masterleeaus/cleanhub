@@ -6,7 +6,7 @@
 
 </div>
 
-> **Status: empty repository / deletion candidate.** At the time of this review, the default branch has no files and no README.
+> **Status: empty repository / deletion candidate.** The default branch currently contains this status README only; no application source or release artifact is present.
 
 ## Relationship to Titan Zero
 
@@ -18,4 +18,4 @@ Compare branches, tags, repository settings, and external references. If there i
 
 ## Banner
 
-This repository has no product-specific visual asset.
+This placeholder remains intentionally unbranded while deletion review is pending.
