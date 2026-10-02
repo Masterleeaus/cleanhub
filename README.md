@@ -6,6 +6,13 @@
 
 </div>
 
+## Product architecture and engineering highlights
+
+This repository is a reserved CleanHub project placeholder; it currently contains no application implementation.
+
+- **Architecture:** The default branch holds a status README only, with no application modules, runnable service, or release artifact.
+- **Distinctive engineering:** Keeping the repository candid and minimal makes its disposition clear while preserving a record of the reserved product name.
+
 > **Status: empty repository / deletion candidate.** The default branch currently contains this status README only; no application source or release artifact is present.
 
 ## Relationship to Titan Zero
