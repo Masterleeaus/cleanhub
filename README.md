@@ -1,6 +1,6 @@
 <div align="center">
 
-# CleanHub
+# CleanHub Placeholder
 
 **Empty repository reserved for a cleaning product name.**
 
